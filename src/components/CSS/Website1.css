@@ -1,0 +1,90 @@
+
+.introHeadding{
+     display: flex;
+     justify-content: center;
+
+     color: white;
+
+     font-size: 3rem;
+
+     
+   
+}
+
+.introText{
+     width: 100vw;
+     display: flex;
+
+     justify-content: center;
+     align-items: center;
+
+     color: white;
+
+     font-size: 1.5rem;
+}
+
+.titleContainer{
+     margin-top: 10vh;
+     
+  
+}
+
+.definitionContainer{
+     width: 100vw;
+     height: 100vh;
+     justify-content: center;
+     display: flex;
+     align-items: center;
+     
+}
+
+
+
+.definitionImg{
+     height: 30vh;
+     width: auto;
+
+     border-radius: 10px;
+}
+
+.definitionContainer h1{
+     width: 50%;
+     height: 100%;
+
+     justify-content: center;
+     display: flex;
+     align-items: center;
+}
+
+.imgWrapper{
+     height: 100%;
+     width: 50%;
+
+     display: flex;
+
+     justify-content: center;
+     align-items: center;
+}
+
+.definitionText{
+     width: 100vw;
+     display: flex;
+     justify-content: center;
+
+     position: relative;
+     bottom: 9rem;
+}
+
+.definitionText span{
+     width: 60vw;
+     text-align: center;
+
+     color: white;
+
+     font-size: 1.2rem;
+}
+
+
+.noOpacity{
+     opacity: 0;
+}

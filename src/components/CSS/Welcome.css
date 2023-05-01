@@ -1,0 +1,46 @@
+h1{
+     margin-top: 5rem;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+     color: white;
+
+     font-size: 3rem;
+}
+
+.targets{
+     display: flex;
+
+     justify-content: space-evenly;
+}
+
+.background{
+     text-align: center;
+     background-color: rgb(73, 110, 66);
+
+     height: 50vh;
+     width: 20vw;
+
+     border-radius: 30px;
+
+    color: white;
+
+    box-shadow: rgba(54, 93, 50, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 64, 14, 0.35) 0px -2px 6px 0px inset;
+}
+
+.websiteTargets{
+     display: flex;
+     flex-direction: column;
+     justify-content: space-evenly;
+     
+     height: 80%;
+}
+
+.allCommands{
+     display: flex;
+     flex-direction: column;
+     justify-content: space-evenly;
+     
+     height: 80%;
+}
